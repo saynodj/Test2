@@ -9,4 +9,6 @@ new python code
 there is info from master
 i am old senior from vetka2
 
+new code from some jun
+
 there is info from master branch
