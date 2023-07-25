@@ -9,4 +9,4 @@ new python code
 there is info from master
 i am old senior from vetka2
 
-absolutely new functional
+new code from some jun
